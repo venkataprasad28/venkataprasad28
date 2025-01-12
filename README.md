@@ -1,5 +1,5 @@
 - 👋 Hi, I’m venkataprasad
-- 👀 I’m interested in ML,BLOCK CHAIN
+- 👀 I’m interested in ML
 - 🌱 I’m currently learning AIML
 - 📫 How to reach me venkataprasad2182@gmail.com
 - 😄 Pronouns: he/him
